@@ -1,4 +1,4 @@
-# RAW Paste Data
+# discord
 import discord
 from discord import utils
 
